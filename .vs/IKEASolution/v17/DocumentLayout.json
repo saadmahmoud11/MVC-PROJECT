@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\viewmodels\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\viewmodels\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\employee\\partialviews\\_createeditpartialviewemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\partialviews\\_createeditpartialviewemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\account\\forgitpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\account\\forgitpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C12EB-88EF-4C78-8483-4214B0151815}|IKEA.DAL\\IKEA.DAL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.dal\\models\\auth\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970C12EB-88EF-4C78-8483-4214B0151815}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\models\\auth\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\viewmodels\\account\\forgitpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\viewmodels\\account\\forgitpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|c:\\users\\el-manfy\\source\\repos\\ikeasolution\\ikea.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE09410-0058-41FB-A461-B9F32E895179}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Helpers\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Helpers\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Helpers\\EmailSettings.cs",
+              "RelativeToolTip": "IKEA.PL\\Helpers\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:47:08.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Program.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Program.cs",
+              "RelativeToolTip": "IKEA.PL\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:45:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:43:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:25:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:23:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:07:12.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "IKEA.PL\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:08:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_CreateEditPartialViewEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialViewEmployee.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialViewEmployee.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialViewEmployee.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialViewEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:23:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:43:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "IKEA.PL\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:08:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:13:45.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgitPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\ForgitPassword.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Account\\ForgitPassword.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\ForgitPassword.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Account\\ForgitPassword.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T22:17:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T14:49:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.DAL\\Models\\Auth\\Email.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Models\\Auth\\Email.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.DAL\\Models\\Auth\\Email.cs",
+              "RelativeToolTip": "IKEA.DAL\\Models\\Auth\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:40:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T18:54:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T22:25:03.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgitPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\ForgitPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\ViewModels\\Account\\ForgitPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\ForgitPasswordViewModel.cs",
+              "RelativeToolTip": "IKEA.PL\\ViewModels\\Account\\ForgitPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:19:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\ViewModels\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "IKEA.PL\\ViewModels\\Account\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:58:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T20:42:49.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:40:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\IKEASolution\\IKEA.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-19T22:47:46.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

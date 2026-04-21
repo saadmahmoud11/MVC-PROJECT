@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.PL", "IKEA.PL\IKEA.PL.csproj", "{9FE09410-0058-41FB-A461-B9F32E895179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.BLL", "IKEA.BLL\IKEA.BLL.csproj", "{2AB6BFED-0EEC-47C6-AD4C-7ACACAABC328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.DAL", "IKEA.DAL\IKEA.DAL.csproj", "{970C12EB-88EF-4C78-8483-4214B0151815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE09410-0058-41FB-A461-B9F32E895179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE09410-0058-41FB-A461-B9F32E895179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE09410-0058-41FB-A461-B9F32E895179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE09410-0058-41FB-A461-B9F32E895179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB6BFED-0EEC-47C6-AD4C-7ACACAABC328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB6BFED-0EEC-47C6-AD4C-7ACACAABC328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB6BFED-0EEC-47C6-AD4C-7ACACAABC328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB6BFED-0EEC-47C6-AD4C-7ACACAABC328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970C12EB-88EF-4C78-8483-4214B0151815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C12EB-88EF-4C78-8483-4214B0151815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C12EB-88EF-4C78-8483-4214B0151815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C12EB-88EF-4C78-8483-4214B0151815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07DA9B6-D5CA-479B-8A23-6E1C49B8C395}
+	EndGlobalSection
+EndGlobal
